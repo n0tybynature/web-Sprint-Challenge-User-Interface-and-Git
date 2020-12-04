@@ -1,0 +1,48 @@
+header {
+    display: flex;
+    margin: 0 auto;
+    width: 55vw;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.begin{
+    display:flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    width: 41.5vw;
+    
+}
+
+.lambda {
+    justify-content: space-around;
+    
+}
+
+
+
+
+.topnav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 55vw;
+    padding-bottom: 8px;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    color:black;
+    font-size: 10pt;
+    font-weight: 600;
+}
+
+
+.topimg {
+    margin: 0 auto;
+    display: flex;
+    padding: 27px 0px;
+    justify-content: center;
+}
